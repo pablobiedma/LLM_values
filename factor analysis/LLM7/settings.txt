@@ -1,0 +1,21 @@
+from openai import OpenAI
+client = OpenAI()
+
+response = client.chat.completions.create(
+  model="gpt-3.5-turbo",
+  messages=[
+    {
+      "role": "user",
+      "content": "List the words that most accurately represent your value system."
+    },
+    {
+      "role": "assistant",
+      "content": "1. Integrity\n2. Honesty\n3. Respect\n4. Compassion\n5. Responsibility\n6. Equality\n7. Empathy\n8. Trustworthiness\n9. Fairness\n10. Open-mindedness\n11. Perseverance\n12. Kindness\n13. Accountability\n14. Tolerance\n15. Authenticity\n16. Generosity\n17. Gratitude\n18. Humility\n19. Justice\n20. Loyalty"
+    }
+  ],
+  temperature=0.22,
+  max_tokens=256,
+  top_p=0.88,
+  frequency_penalty=0,
+  presence_penalty=0
+)

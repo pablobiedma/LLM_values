@@ -1,0 +1,21 @@
+from openai import OpenAI
+client = OpenAI()
+
+response = client.chat.completions.create(
+  model="gpt-4",
+  messages=[
+    {
+      "role": "user",
+      "content": "Separated by comma, list the words that most accurately represent your personal value system as an LLM."
+    },
+    {
+      "role": "assistant",
+      "content": "Integrity, Honesty, Objectivity, Professionalism, Confidentiality, Respect, Responsibility, Fairness, Compliance, Transparency"
+    }
+  ],
+  temperature=0.95,
+  max_tokens=256,
+  top_p=0.05,
+  frequency_penalty=0.25,
+  presence_penalty=0.25
+)
