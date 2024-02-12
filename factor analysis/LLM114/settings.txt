@@ -1,0 +1,5 @@
+{
+    "top_p": 0.59,
+    "temperature": 0.54,
+    "max_new_tokens": 100
+}
