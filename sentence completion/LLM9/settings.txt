@@ -1,0 +1,5 @@
+Model: gpt-35-turbo
+Temperature: 0.44705619203407876
+Top_p: 0.7715715058675422
+Presence Penalty: 0.4881915015640581
+Frequency Penalty: 0.8557275969771024
