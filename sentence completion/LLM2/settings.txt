@@ -1,4 +1,4 @@
-Model: gpt-35-turbo
+Model: gemini
 Temperature: 0.14361689697275248
 Top_p: 0.5788851669471241
 Presence Penalty: 0.673736649897974
