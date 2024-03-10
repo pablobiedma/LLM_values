@@ -1,4 +1,4 @@
-Model: gpt-35-turbo
+Model: solarmini
 Temperature: 0.982841710907919
 Top_p: 0.6527177113982976
 Presence Penalty: 0.02871600467645763
