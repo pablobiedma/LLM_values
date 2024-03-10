@@ -1,4 +1,4 @@
-Model: gpt-35-turbo
+Model: phi
 Temperature: 0.5039014060872565
 Top_p: 0.9440658095524238
 Presence Penalty: 0.09050514689783873
