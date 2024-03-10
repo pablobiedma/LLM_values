@@ -1,4 +1,4 @@
-Model: gpt-35-turbo
+Model: gpt-4-turbo
 Temperature: 0.008208837195069485
 Top_p: 0.8567367816140818
 Presence Penalty: 0.7543898236491219
