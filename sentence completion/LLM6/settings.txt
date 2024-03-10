@@ -1,4 +1,4 @@
-Model: gpt-35-turbo
+Model: mistral
 Temperature: 0.024465920054677626
 Top_p: 0.7042197430906207
 Presence Penalty: 0.4370401924583148
