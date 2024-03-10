@@ -1,4 +1,4 @@
-Model: gpt-35-turbo
+Model: llama
 Temperature: 0.026551294521416025
 Top_p: 0.8884397659448066
 Presence Penalty: 0.3657215745882244
