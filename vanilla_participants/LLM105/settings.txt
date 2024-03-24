@@ -1,0 +1,8 @@
+{
+    "top_p": 0.9019279073669692,
+    "temperature": 0.8574821884569631,
+    "max_tokens": 100,
+    "presence_penalty": 0.8027903288165206,
+    "frequency_penalty": 0.4706611148124439,
+    "model": "llama2_13b"
+}
