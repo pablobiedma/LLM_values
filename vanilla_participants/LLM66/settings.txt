@@ -1,0 +1,8 @@
+{
+    "top_p": 0.9016853717136558,
+    "temperature": 0.5143302337617283,
+    "max_tokens": 100,
+    "presence_penalty": 0.6347636658788627,
+    "frequency_penalty": 0.5305697193601202,
+    "model": "baichuan7b"
+}
