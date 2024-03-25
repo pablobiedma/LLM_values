@@ -1,0 +1,8 @@
+{
+    "top_p": 0.896167480990651,
+    "temperature": 0.6746821629102278,
+    "max_tokens": 100,
+    "presence_penalty": 0.11148728375977313,
+    "frequency_penalty": 0.35799920545174135,
+    "model_name": "tulu_13b"
+}

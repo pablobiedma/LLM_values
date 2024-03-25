@@ -1,0 +1,7 @@
+{
+    "top_p": 0.07,
+    "temperature": 0.57,
+    "max_new_tokens": 100,
+    "do_sample": true,
+    "model_name": "gcrllama2-13b"
+}
