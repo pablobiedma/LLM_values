@@ -1,0 +1,7 @@
+{
+    "top_p": 0.92,
+    "temperature": 0.54,
+    "max_new_tokens": 100,
+    "do_sample": true,
+    "model_name": "msft-orca-2-13b-1"
+}

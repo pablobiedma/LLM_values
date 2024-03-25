@@ -1,0 +1,8 @@
+{
+    "top_p": 0.8849220648508479,
+    "temperature": 0.9485785112455575,
+    "max_tokens": 100,
+    "presence_penalty": 0.7161862955992361,
+    "frequency_penalty": 0.6420741713760427,
+    "model_name": "gemma7bit"
+}

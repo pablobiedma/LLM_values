@@ -1,0 +1,8 @@
+{
+    "top_p": 0.814286789470939,
+    "temperature": 0.667840545242237,
+    "max_tokens": 100,
+    "presence_penalty": 0.855348594371906,
+    "frequency_penalty": 0.2150560686035885,
+    "model_name": "tulu_7b"
+}

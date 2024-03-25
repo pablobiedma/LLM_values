@@ -1,0 +1,7 @@
+{
+    "top_p": 0.39,
+    "temperature": 0.83,
+    "max_new_tokens": 100,
+    "do_sample": true,
+    "model_name": "llama-2-70b"
+}

@@ -1,0 +1,21 @@
+from openai import OpenAI
+client = OpenAI()
+
+response = client.chat.completions.create(
+  model="gpt-4-turbo-preview",
+  messages=[
+    {
+      "role": "user",
+      "content": "As an LLM list the words that would most accurately represent your value system, simply give me these words separated by comma."
+    },
+    {
+      "role": "assistant",
+      "content": "accuracy, objectivity, fairness, transparency, respect, inclusivity, privacy, integrity, reliability, helpfulness"
+    }
+  ],
+  temperature=1,
+  max_tokens=256,
+  top_p=1,
+  frequency_penalty=0,
+  presence_penalty=0
+)
